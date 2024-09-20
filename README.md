@@ -1,4 +1,4 @@
-This is a collection of more than 1 mod that i feel doesn't deserve their own page.
+This is a collection of mods that i feel dont deserve their own page.
 
 You'll find a bunch of mods that either let you craft something into another item, or recycle an item you already have for something else. You can choose to install either 1 or all the mods, or mix and match. Whatever you want. Some of the mods require items from Modders gear Toolbox, so make sure you have that incase you want them.  Thank you Jods!   Mod component is required as always.
 
